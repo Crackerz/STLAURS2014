@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>St Louis Area Undergraduate Research Symposium</title>
+
+<!-- common links to every page -->
+<!--#include virtual="/ssi/ssi-headinglinksandscripts.html" -->
+
+<!-- links specific to the individual page -->
+<link href="http://www.stlaurs.com/index.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="http://www.stlaurs.com/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
+<script type="text/javascript" src="http://www.stlaurs.com/slideshow.js"></script> <!-- script for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css'> <!-- web font for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
+
+<style>
+.section{color:#002d4c;font:15pt arial;}
+.member{overflow:auto;margin:9px 0;}
+.member img{float:left;margin-right:15px;width:200px;max-height:200px;}
+.member .info{float:left;width:700px;line-height:1.8;font-size:10pt;}
+.member .title{font-size:12pt;}
+.member .title .name{font-weight:bold;}
+</style>
+</head>
+
+<body>
+<div id="wrapper"><!--#include virtual="/ssi/ssi-heading.html" -->
+<div id="bodywrapper"><!--#include virtual="/ssi/ssi-schools.html" -->
+<div id="bodycontent"><!-- ############ EDITABLE CONTENT ############## -->
+
+	<div class="section">Southern Illinois University at Carbondale:</div>
+	
+	<div class="member">
+		<img src="img/members/will.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">William Blankenship</span> (Co-Director of Inter School Board)</div>
+			<b>Major:</b> Computer Science and Mathematics Dual Degree<br />
+			<b>Graduation:</b> May, 2016<br />
+			<b>Research:</b> William Blankenship currently works in the High Performance Computing laboratory. He is exploring ways to deal with large volumes of streamed data. His research interest is managing the large volumes of data available to society.
+		</div>
+	</div>
+	
+	<div class="member">
+		<img src="img/members/andrew.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Andrew Ciuris</span> (Co-Director of Inter School Board)</div>
+			<b>Major:</b> Zoology - Fisheries Biology and Aquatic Conservation, minor in Chemistry.<br />
+			<b>Research:</b> Andrew works in a fish aquaculture and feed sciences lab. He is interested in sustainability work through responsible feed formulations for fish, environmentally mindful ways to farm fish, and conserve water use. <br />
+			<b>Graduation:</b> May, 2015
+		</div>
+	</div>
+	<div class="member">
+		<img src="img/members/yuri.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Yuri Fedorovich</span> (Director of Recruitment)</div>
+			<b>Major:</b> Master's in Molecular, Cellular and Systemic Physiology<br />
+			<b>Research:</b> Yuri’s work consists of exploring the onset time and mode of neuronal death, as well as the loss of neuronal function after pyridoxine overdose in chick embryo.<br />
+			<b>Graduation:</b> December, 2013
+		</div>
+	</div>
+	<div class="member">
+		<img src="img/members/cory.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Cory Kertz</span> (Director of Sponsorship)</div>
+			<b>Major:</b> Plant and Soil Science, minor in Chemistry.<br />
+			<b>Research:</b> Cory’s research focus is in the development of more sustainable agricultural practices. His research is currently focused on the genetic makeup of Fusarium spp. in both Sudden Death Syndrome conducive and resistance soils.<br /> 
+			<b>Graduation:</b> May, 2015
+		</div>
+	</div>
+	<div class="member">
+		<img src="img/members/jessica.jpg" />
+		<div class="info">
+		<div class="title"><span class="name">Jessica Michels</span> (Director of Advertising)</div>
+			<b>Major:</b> Animal Science Degree specializing in Pre-Veterinary Medicine.<br />
+			<b>Minors:</b> Chemistry and Speech Communication.<br />
+			<b>Research:</b> Jessica is currently interested in feed formulation research for both companion animals and livestock.<br />
+			<b>Graduation:</b> May, 2015
+		</div>
+	</div>
+	<div class="member">
+		<img src="img/members/emily.png" />
+		<div class="info">
+			<div class="title"><span class="name">Emily Campbell</span> (Member)</div>
+			<b>Major:</b> Bachelor of Science in Special Education with a Middle School English and Science Endorsement<br />
+			<b>Research:</b> Emily is currently working on the Tracking Rare Incidence Syndromes (TRIS) Project which seeks to increase awareness and knowledge for families and professionals touched by rare trisomy conditions and aims to facilitate improved decision making for optimal services and supports for children and their families. <br />
+			<b>Graduation:</b> December, 2014
+		</div>
+	</div>
+	<div class="member">
+		<img src="img/members/sophia.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Sophia Bonjour</span> (Interested in Leadership)</div>
+			<b>Major:</b> Biological sciences, ecology track. Minors in Mathematics and Chemistry<br />
+			<b>Research:</b> Sophia has worked in freshwater ecology since Fall 2011. As an undergraduate assistant, she has focused on macroinvertebrate communities and fish diets in southern Illinois' Cache River. As an REU at the University of Georgia this summer she used isotopes to examine basal resource quality and food chain length along a stream discharge gradient.<br />
+			<b>Graduation:</b> May, 2014
+		</div>
+	</div>
+	<div class="member">
+		<img src="img/members/kyle.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Kyle Goetzelmann</span> (Member)</div>
+			<b>Major:</b> Civil Engineering and Mechanical Engineering (Double Major)<br />
+			<b>Previous Research:</b> Determining sugar yields with different pretreatment processes of corn fiber and sweet sorghum bagasse.<br /> 
+			<b>Graduation:</b> May 2013
+		</div>
+	</div>
+	<br />
+	<div class="section">Saint Louis University:</div>
+	
+	<div class="member">
+		<img src="img/members/nick.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Nick Johnson</span> (Member)</div>
+			<b>Major:</b> Psychology<br />
+			<b>Research:</b> Nick plans to attend graduate school and is interested in counseling psychology with a focus in working with veterans. His research goals will included working with those with learning and congnition disabilities, developmental disorders, and autism in young adults and children.<br />
+			<b>Graduation:</b> May, 2014
+		</div>
+	</div>
+	<div class="member">
+		<img src="img/members/marco.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Marco Rossi</span> (Member)</div>
+			<b>Major:</b> Clinical Laboratory Science<br />
+			<b>Research:</b> Marco’s current research looks into the properties of bacterial biofilms and the role of adherence to the infectious process of multidrug-resistant Staph. aureus (MRSA). Present interests for his future career entails graduate school for Microbiology.<br />
+			<b>Graduation:</b> May, 2015
+		</div>
+	</div>
+	<br />
+	<div class="section">Washington University:</div>
+	
+	<div class="member">
+		<img src="img/members/aakash.png" />
+		<div class="info">
+			<div class="title"><span class="name">Aakash Gandhi</span> (Co-Director)</div>
+			<b>Major:</b> Biochemistry<br />
+			<b>Science Interest:</b> Target-and-mechanism-based drug design<br />
+			<b>Research:</b> Investigating the role of haloacid dehalogenases in Plasmodium falciparum drug resistance (Odom Lab, WUSM)<br />
+			<b>Graduation:</b> 2016
+		</div>
+	</div>
+	<div class="member">
+		<img src="img/members/miles.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Miles Black</span> (Director of Sponsorship)</div>
+			<b>Major:</b> Biology and Spanish<br />
+			<b>Research:</b> Genome Organization and Genetics, particularly of the ciliated protozoan <i>Tetrahmena thermophila</i>.<br />
+			<b>Graduation:</b> May, 2014
+		</div>
+	</div>
+<div id="rightcontent">
+<strong><!-- ####### END OF EDITABLE CONTENT ######## --></strong></div>
+<strong><strong><strong> <!-- bodycontent --></strong></strong></strong>
+<div id="fill"></div>
+<strong><strong><!-- makes sure the body background fills up the entire height --> <!--#include virtual="/ssi/ssi-footer.html" --></strong></strong></div>
+<strong><strong> </strong></strong></div>
+<p></p>
+<p><!-- wrapper --></p>
+<p></p>
+<p>&nbsp;</p>
+</body>
+</html>

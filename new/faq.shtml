@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>St Louis Area Undergraduate Research Symposium</title>
+
+<!-- common links to every page -->
+<!--#include virtual="/ssi/ssi-headinglinksandscripts.html" -->
+
+<!-- links specific to the individual page -->
+<link href="http://www.stlaurs.com/index.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="http://www.stlaurs.com/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
+<script type="text/javascript" src="http://www.stlaurs.com/slideshow.js"></script> <!-- script for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css'> <!-- web font for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
+
+<style>
+.question{padding-left:10px;font-weight:bold;}
+.answer{margin-left:29px;font-weight:normal;}
+</style>
+</head>
+
+<body>
+<div id="wrapper"><!--#include virtual="/ssi/ssi-heading.html" -->
+<div id="bodywrapper"><!--#include virtual="/ssi/ssi-schools.html" -->
+<div id="bodycontent"><!-- ############ EDITABLE CONTENT ############## -->
+	<div class="question">
+		Do I have to pay for this event?
+		<div class="answer">
+			If you attend one of our sponsoring universities, attendance is free of  charge! In the event you do not attend one of these universities, please contact us prior to submitting an application.
+		</div>
+	</div>
+	<div class="question">
+		I worked on two different projects. Can I make two presentations?
+		<div class="answer">
+			Your name may appear on more than one application, however you may only submit one application in which you are the first author.
+		</div>
+	</div>
+	<div class="question">
+		My presentation at the Symposium will be different from what I applied with and proposed. Is this acceptable?
+		<div class="answer">
+			Yes, small changes are acceptable to a project. We understand the dynamic endeavor that is research. However, very large changes that alter the goal or dramatically change project results will need to be reviewed again. We ask that if this occurs to please notify us at least 2 weeks prior to the event for us to review the changes and integrate your abstract changes into our program prior to being printed. If you are unsure as if your change would be considered a “dramatic” change it is imperative that you contact us. Changing your project without notifying the board may make you ineligible for awards.
+		</div>
+	</div>
+	<div class="question">
+		How are applications and abstracts reviewed?
+		<div class="answer">
+			The Inter-School Board meets throughout the year to review abstract submissions. We strive to accept all applications, however we are limited by the size of our venue. After the Board reaches a decision on your abstract submission, a representative from the Board will notify you with the status of your application.
+		</div>
+	</div>
+	<div class="question">
+		Can I invite family and friends to come view my presentation?
+		<div class="answer">
+			Yes! Our event is open to the public and we encourage you to bring guests! However, due to limited seating and budget, we may not be able to accommodate all guests for our catered meal. If you want your guests to be able to attend the lunch, you must list them during registration. In the event your application is approved, we will contact you regarding the meal. If you have guests who are not registered for a meal, there are many dining options in our venue and within walking distance of campus.
+		</div>
+	</div>
+	<div class="question">
+		Can a group of student who worked on a project together still present?
+		<div class="answer">
+			Yes, this is acceptable. Only one application is needed for the group of students who worked on the project. Please make sure that all names are put down on the application so that everyone is represented and we can put everyone on our roster. Research is all about working together and networking, we encourage this kind of work!
+		</div>
+	</div>
+	<div class="question">
+		When is the event being held? Where?
+		<div class="answer">
+			This information can be found on our <a href="http://www.stlaurs.com/index.shtml">homepage</a>.
+		</div>
+	</div>
+	<div class="question">
+		What if I need audio-visual equipment or other accommodations for my presentation?
+		<div class="answer">
+			On the application, let us know what you need for your presentation. Examples include power outlets, surge protectors, projectors, etc. You will be notified by e-mail prior to the symposium of whether we are able or not to accommodate the equipment requests you indicated on your application. If you are bringing your own equipment and require extra space for your project’s configuration, please notify us before the event.
+		</div>
+	</div>
+	<div class="question">
+		What are the requirements for the abstract?
+		<div class="answer">
+			The Abstract Guidelines provide a detailed rules for your abstract. These rules can be found under the 2014 Symposium tab on the website.
+		</div>
+	</div>
+	<div class="question">
+		What are the requirements for posters?
+		<div class="answer">
+			The Symposium Guidelines provide detailed rules for your poster. These can be found under the 2014 Symposium tab on the website.
+		</div>
+	</div>
+	<div class="question">
+		What are the requirements for the oral presentations?
+		<div class="answer">
+			Consult the Symposium Guidelines for requirements for oral presentations. This can be found under the 2014 Symposium tab on the website once they are established.
+		</div>
+	</div>
+<div id="rightcontent">
+<strong><!-- ####### END OF EDITABLE CONTENT ######## --></strong></div>
+<strong><strong><strong> <!-- bodycontent --></strong></strong></strong>
+<div id="fill"></div>
+<strong><strong><!-- makes sure the body background fills up the entire height --> <!--#include virtual="/ssi/ssi-footer.html" --></strong></strong></div>
+<strong><strong> </strong></strong></div>
+<p></p>
+<p><!-- wrapper --></p>
+<p></p>
+<p>&nbsp;</p>
+</body>
+</html>

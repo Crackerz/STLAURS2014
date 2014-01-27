@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>St Louis Area Undergraduate Research Symposium</title>
+
+<!-- common links to every page -->
+<!--#include virtual="/ssi/ssi-headinglinksandscripts.html" -->
+
+<!-- links specific to the individual page -->
+<link href="http://www.stlaurs.com/index.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="http://www.stlaurs.com/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
+<script type="text/javascript" src="http://www.stlaurs.com/slideshow.js"></script> <!-- script for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css'> <!-- web font for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
+
+<style>
+</style>
+</head>
+
+<body>
+<div id="wrapper"><!--#include virtual="/ssi/ssi-heading.html" -->
+<div id="bodywrapper"><!--#include virtual="/ssi/ssi-schools.html" -->
+<div id="bodycontent"><!-- ############ EDITABLE CONTENT ############## -->
+	
+	<b>Schedule for the 2013/2014 STLAURS Event</b><br /><br />
+	
+	Planning for the 2014 symposium is still underway. 
+	We will be updating this section as we approach the date of the event. 
+	Check back here often!
+
+<div id="rightcontent">
+<strong><!-- ####### END OF EDITABLE CONTENT ######## --></strong></div>
+<strong><strong><strong> <!-- bodycontent --></strong></strong></strong>
+<div id="fill"></div>
+<strong><strong><!-- makes sure the body background fills up the entire height --> <!--#include virtual="/ssi/ssi-footer.html" --></strong></strong></div>
+<strong><strong> </strong></strong></div>
+<p></p>
+<p><!-- wrapper --></p>
+<p></p>
+<p>&nbsp;</p>
+</body>
+</html>

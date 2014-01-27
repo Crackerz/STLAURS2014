@@ -1,0 +1,8 @@
+ID	firstname	lastname	address	city	state	place	zip	phone	email	availability	veg	yearentered	gradyear	
+"3"	"Faraz"	"Hussain"	"3241 S Wabash Ave #165  "	"Chicago"	"IL"	"iit"	"60616"	"3122850370"	"faraziit@gmail.com"	"both"	"no"	"2004"	"2009"
+"4"	"Joy"	"Bian"	"3241 S. Wabash Ave Box #142"	"Chicago"	"IL"	"iit"	"61701"	"3098302327"	"jbian1@iit.edu"	"both"	"yes"	"2"	"May 2010"
+"5"	"Grace"	"Chee"	"3241 S. Wabash Ave."	"Chicago"	"IL"	"iit"	"60616"	"808-224-6046"	"gchee@iit.edu"	"both"	"no"	"2"	"2010"
+"6"	"Rachel"	"Walker"	"3241 S Wabash Ave"	"Chicago"	"IL"	"iit"	"60616"	"630-532-0064"	"rwalke3@iit.edu"	"both"	"no"	"2007"	"2011"
+"7"	"Raj"	"Gala"	"1918 W. Pratt Blvd"	"Chicago"	"IL"	"iit"	"60626"	"773-764-2521"	"rgala1@iit.edu"	"both"	"yes"	"2005"	"2009"
+"8"	"Amanda"	"Wicker"	"3231 S Princeton Ave"	"Chicago"	"IL"	"iit"	"60616"	"320-247-2388"	"awicker@iit.edu"	"both"	"no"	"2005"	"2009"
+"9"	"Meng"	"Sun"	"3241 S Wabash Ave Box1003"	"Chicago"	"IL"	"iit"	"60616"	"312-808-6693"	"msun7@iit.edu"	"both"	"no"	"2005"	"2009"

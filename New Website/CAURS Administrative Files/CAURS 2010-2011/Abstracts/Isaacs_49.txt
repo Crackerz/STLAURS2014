@@ -1,0 +1,18 @@
+Presenter:
+Jared Isaacs
+
+Title:
+Measurement of the Inhibition Potential of Melatonin on 
+Beta-Amyloid Peptide Aggregation and its Mutations Using Congo Red
+
+Abstract:
+Victims of the neurodegenerative Alzheimer’s disease show the formation of amyloid 
+plaques in the brain’s extracellular region caused by the folding of beta-amyloid peptides (Aß).  
+Beginning as monomers, these proteins fibrilize into increasingly complex and toxic intermediates, 
+ending with the aggregation of amyloid proteins.  As demonstrated by Cheng (2005), melatonin may function 
+as an inhibitor of Aß aggregation based on tests involving the Aß (1-40) strand.  Because point mutations 
+at the hair-pin turn (Aß 22-35) affect the solubility of intermediates as well as their rate of fibrilization, 
+this area became our focus.  Ultraviolet-visible spectroscopy (UV-Vis) will be used in combination with 
+Congo Red to quantitatively measure the inhibition capabilities of melatonin on Aß proteins and its mutations.  
+The measured effects of melatonin on the 22-35 fragment may help pave the way for future preventive 
+treatment of Alzheimer’s disease.  

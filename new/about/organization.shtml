@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>St Louis Area Undergraduate Research Symposium</title>
+
+<!-- common links to every page -->
+<!--#include virtual="/ssi/ssi-headinglinksandscripts.html" -->
+
+<!-- links specific to the individual page -->
+<link href="http://www.stlaurs.com/index.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="http://www.stlaurs.com/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
+<script type="text/javascript" src="http://www.stlaurs.com/slideshow.js"></script> <!-- script for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css'> <!-- web font for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
+
+<style>
+.section{color:rgb(0, 45, 76);}
+</style>
+</head>
+
+<body>
+<div id="wrapper"><!--#include virtual="/ssi/ssi-heading.html" -->
+<div id="bodywrapper"><!--#include virtual="/ssi/ssi-schools.html" -->
+<div id="bodycontent"><!-- ############ EDITABLE CONTENT ############## -->
+
+The Inter-School Board is composed of members from each of the participating universities with the purpose of organizing the symposium. Most of the planning and coordination of the symposium is done by the undergraduate students that comprise the board. 
+<br /><br />
+<div class="section">Leadership:</div>
+The idea behind the new organization structure is that each level of leadership (from Director to Co-Director to Director of Advertising) has a large amount of creative input in their domain and is accountable for the work being done. This empowers the student to accomplish the goals of the organization in a way that also fits with their interests and desires.
+<br /><br />
+<div class="section">Members:</div>
+Members represent the body of the organization. They help provide crucial general support which enables the event to be successful. Members help throughout the year and learn information that can be carried to future symposiums as members become the leadership of future symposiums. 
+<br /><br />
+<div class="section">Directors:</div>
+There will be either one or two directors selected from the hosting university. The directors are responsible for coordinating efforts between schools, ensuring the organization is working towards its goals, and organizing the Inter-School Board meetings between the Co-Directors.
+<br /><br />
+<div class="section">Treasurer:</div>
+There will be one treasurer responsible for managing the finances of the organization. (may want to actually leave this to an admin who oversees it from year to year. Helps create sustainability)
+<br /><br />
+<div class="section">Director of University Outreach:</div>
+There will be a single student responsible for reaching out to Saint Louis area universities and establishing a board presence. They will be responsible for preparing that board to follow the guidelines of STLAURS and assist the university in becoming a sponsoring university.
+<br /><br /><br />
+At Each University:
+<br /><br />
+<div class="section">Director of Advertising:</div>
+Their role will be to reach out to faculty and students at their respective universities in order to increase the number of applications we get for presenting at the event. Every university will have a Director of Advertising.
+<br /><br />
+<div class="section">Director of Recruitment:</div>
+Their role will be to reach out to faculty and students at their respective universities in order to increase the number of applicants and the quality of applications we get to the Inter-School Board. Every university will have a Director of Recruitment. These duties include working directly with staff and their respective student bodies through meetings, advertising, and active on campus promotion. How they attempt to acquire new members is up to their creative abilities.
+<br /><br />
+<div class="section">Director of Sponsorship:</div>
+Their role will be to reach out to companies and their respective universities in order to secure donations for the event. This position is responsible for contacting their respective universities for the annual donation as well. Every university will have a Director of Sponsorship.
+<br /><br />
+<div class="section">Faculty Liaison:</div>
+The faculty liaison at each university will assist in communicating between the STLAURS board members at that university and the administration for needs such as the universities role and sponsorship.  
+<br /><br />
+<div class="section">ISB-Member:</div>
+Every university will have ISB-Members. Their role will be to coordinate efforts on their campus to support the STLAURS organization. They will report the status of their university to the Directors and attend the Inter-School Board meetings on behalf of their school. They will also be responsible for organizing meetings on their campus.
+
+<div id="rightcontent">
+<strong><!-- ####### END OF EDITABLE CONTENT ######## --></strong></div>
+<strong><strong><strong> <!-- bodycontent --></strong></strong></strong>
+<div id="fill"></div>
+<strong><strong><!-- makes sure the body background fills up the entire height --> <!--#include virtual="/ssi/ssi-footer.html" --></strong></strong></div>
+<strong><strong> </strong></strong></div>
+<p></p>
+<p><!-- wrapper --></p>
+<p></p>
+<p>&nbsp;</p>
+</body>
+</html>

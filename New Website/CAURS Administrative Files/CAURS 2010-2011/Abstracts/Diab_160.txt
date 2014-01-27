@@ -1,0 +1,8 @@
+George Diab 
+
+Correspondence in GC nucleotide content between virus and host
+
+Viruses and hosts have an intrinsic relationship that is continuously changing at a molecular level. Both the virus and the host have an evolutionary influence on each other, resulting in a unique propagation that further determines their co-evolution. The nucleic acid sequence fingerprints that result from this relationship are a result of the pressures the virus faces when crossing into a different host, and its attempt to replicate, adapt and survive.  This can be observed through correspondences between viruses and hosts in their genome composition, i.e. GC-content, dinucleotide usage, codon usage, etc. This correspondence, however, is not perfect as viruses tend to have slightly lower GC-content than their host in addition as occasionally incorporating codons for which there are very few tRNAs. We are experimentally testing why this deviation exists. Mutant viral strains of the bacteriophage phiX174 were created aligning the GC-content of the virus with its E. coli C host and comparing the fitness of the mutant with the wild-type. Herein, we present our preliminary results.
+
+
+

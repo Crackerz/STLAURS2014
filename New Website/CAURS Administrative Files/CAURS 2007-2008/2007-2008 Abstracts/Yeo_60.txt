@@ -1,0 +1,18 @@
+Systematic metallurgical procedure is developing currently 
+for non-destructive evaluation method of 52,100 steel products. 
+The metallurgical procedure includes measurement of hardness, cutting, 
+mounting, polishing, and etching process. The most acceptable 
+machining processes and inspection techniques are developed by the 
+method of trial and error. A Wilson TTT ARB hardness tester and 
+ISOMET 2000 precision saw machine are proved to be the most suitable 
+machines for measurement of hardness and cutting process. In etching 
+process, various etchants including ethanol-based 4% Picric acid, 
+ethanol-based 2% nital acid, the combination of ethanol-based 4% 
+Picric and 2% Nital acid, and 100ml ethanol-based 4% picric acid with 
+20ml soap solutions are tried to find the best etchant. The trials 
+reveal that ethanol-based 4% picric acid is good for measuring the 
+size of carbide and none of the etchants is good for measuring the 
+size of grains. After developing the metallurgical procedure, 
+measurement of eddy current and analysis of the data including 
+current value and characteristics of microstructures of 52,100 steel 
+specimens formed in different conditions will be performed.

@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>St Louis Area Undergraduate Research Symposium</title>
+
+<!-- common links to every page -->
+<!--#include virtual="/ssi/ssi-headinglinksandscripts.html" -->
+
+<!-- links specific to the individual page -->
+<link href="http://www.stlaurs.com/index.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="http://www.stlaurs.com/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
+<script type="text/javascript" src="http://www.stlaurs.com/slideshow.js"></script> <!-- script for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css'> <!-- web font for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
+
+<style>
+	#universities{vertical-align:center;line-height:1.5;}
+	#universities tr td{padding:10px 5px;}
+	#universities img{max-width:230px;max-height:170px;text-align:center;}
+	.title{font-weight:bold;margin-bottom:15px;}
+</style>
+</head>
+
+<body>
+<div id="wrapper"><!--#include virtual="/ssi/ssi-heading.html" -->
+<div id="bodywrapper"><!--#include virtual="/ssi/ssi-schools.html" -->
+<div id="bodycontent"><!-- ############ EDITABLE CONTENT ############## -->
+
+<table id="universities">
+	<tr>
+		<td>
+			<img src="img/washington.png" style="width:2in" />
+		</td>
+		<td>
+			<div class="title">Washington University in Saint Louis</div>
+			Research is important to the academic community of Washington University. 
+			Through the collaboration of students and faculty, research is used to 
+			enhance the learning environment of the school and focus on important issues. 
+			There is also an emphasis on the variability of research being conducted 
+			with projects being conducted in most departments. Additionally, corporate 
+			involvement is also encouraged to advance the development of research.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="img/stlu.png" style="width:2in" />
+		</td>
+		<td>
+			<div class="title">Saint Louis University</div>
+			At Saint Louis University, research is encouraged in a variety of disciplines 
+			and is considered an important aspect of learning for both undergraduate and 
+			graduate education. The research focus is basic, molecular, biomedical, 
+			clinical, epidemiological, educational as well as vaccine development. Two 
+			recent additions to the research culture are development of the Center for 
+			World Health and Medicine and new construction of the Doisy Research Center 
+			to house expanding research in biomedical and basic sciences.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="img/siuc.jpg" style="width:2in" />
+		</td>
+		<td>
+			<div class="title">Southern Illinois University Carbondale</div>
+			Southern Illinois University Carbondale encourages the informative and discovery 
+			aspects of research. Through such aspects, the potential of research to 
+			contribute to a wider body of knowledge and the good of society is stressed. 
+			Present projects pertaining to various areas of study are centered in specific 
+			research centers and intend to expand inquiry. These projects pertain to areas 
+			such as ecology, biotechnology, and public policy.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="img/stl_pharm.png" style="width:2in" />
+		</td>
+		<td>
+			<div class="title">Saint Louis College of Pharmacy</div>
+			The research of Saint Louis College of Pharmacy is centered around the treatment 
+			of disease and the advancement of pharmaceutical education. Much of the research 
+			focuses on the development of drug therapies and patient-centered practices. Basic 
+			science research is also integrated into Saint Louis College of Pharmacy’s focus 
+			in order to better understand certain drugs’ characteristics and effects.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="img/siue.png" style="width:2in" />
+		</td>
+		<td>
+			<div class="title">Southern Illinois University Edwardsville</div>
+			Southern Illinois University Edwardsville has research programs that emphasize the 
+			creativity of the research process as well as the experience gained by such a 
+			process. This creativity is reflected in projects that entail topics such as 
+			cancer progression and literary evolution. Even more opportunities have opened up 
+			due to the National Institute of Health’s selection of Southern Illinois University 
+			Edwardsville as a center of excellence in pain education.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="img/missou-stl.png" style="width:2in" />
+		</td>
+		<td>
+			<div class="title">University of Missouri-Saint Louis</div>
+			The focus of research for the University of Missouri-Saint Louis entails the preparation 
+			that the research experience will provide for further career opportunities. Further, 
+			the role of laboratory and field experience in the gain of knowledge is emphasized in 
+			the expectations of prospective researchers, especially those in the basic sciences. 
+			More recent endeavors include increasing opportunities in the biological sciences.
+		</td>
+	</tr>
+</table>
+	
+<div id="rightcontent">
+<strong><!-- ####### END OF EDITABLE CONTENT ######## --></strong></div>
+<strong><strong><strong> <!-- bodycontent --></strong></strong></strong>
+<div id="fill"></div>
+<strong><strong><!-- makes sure the body background fills up the entire height --> <!--#include virtual="/ssi/ssi-footer.html" --></strong></strong></div>
+<strong><strong> </strong></strong></div>
+<p></p>
+<p><!-- wrapper --></p>
+<p></p>
+<p>&nbsp;</p>
+</body>
+</html>
