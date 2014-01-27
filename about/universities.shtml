@@ -8,9 +8,9 @@
 <!--#include virtual="/ssi/ssi-headinglinksandscripts.html" -->
 
 <!-- links specific to the individual page -->
-<link href="http://www.stlaurs.com/index.css" rel="stylesheet" type="text/css" /> 
-<script type="text/javascript" src="http://www.stlaurs.com/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
-<script type="text/javascript" src="http://www.stlaurs.com/slideshow.js"></script> <!-- script for slideshow -->
+<link href="http://www.stlaurs.com/css/index.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="http://www.stlaurs.com/js/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
+<script type="text/javascript" src="http://www.stlaurs.com/js/slideshow.js"></script> <!-- script for slideshow -->
 <link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css'> <!-- web font for slideshow -->
 <link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
 
