@@ -34,22 +34,33 @@
 	<div class="member">
 		<img src="img/members/will.jpg" />
 		<div class="info">
-			<div class="title"><span class="name">William Blankenship</span> (Co-Director of Inter School Board)</div>
+			<div class="title"><span class="name">William Blankenship</span> (Director of STLAURS)</div>
 			<b>Major:</b> Computer Science and Mathematics Dual Degree<br />
 			<b>Graduation:</b> May, 2016<br />
 			<b>Research:</b> William Blankenship currently works in the High Performance Computing laboratory. He is exploring ways to deal with large volumes of streamed data. His research interest is managing the large volumes of data available to society.
 		</div>
 	</div>
-	
+
 	<div class="member">
-		<img src="img/members/andrew.jpg" />
+		<img src="img/members/cory.jpg" />
 		<div class="info">
-			<div class="title"><span class="name">Andrew Ciuris</span> (Co-Director of Inter School Board)</div>
-			<b>Major:</b> Zoology - Fisheries Biology and Aquatic Conservation, minor in Chemistry.<br />
-			<b>Research:</b> Andrew works in a fish aquaculture and feed sciences lab. He is interested in sustainability work through responsible feed formulations for fish, environmentally mindful ways to farm fish, and conserve water use. <br />
+			<div class="title"><span class="name">Cory Kertz</span> (Co-Director of STLAURS)</div>
+			<b>Major:</b> Plant and Soil Science, minor in Chemistry.<br />
+			<b>Research:</b> Cory’s research focus is in the development of more sustainable agricultural practices. His research is currently focused on the genetic makeup of Fusarium spp. in both Sudden Death Syndrome conducive and resistance soils.<br /> 
 			<b>Graduation:</b> May, 2015
 		</div>
 	</div>
+
+	<div class="member">
+		<img src="img/members/sophia.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Sophia Bonjour</span> (Director of Sponsorship)</div>
+			<b>Major:</b> Biological sciences, ecology track. Minors in Mathematics and Chemistry<br />
+			<b>Research:</b> Sophia has worked in freshwater ecology since Fall 2011. As an undergraduate assistant, she has focused on macroinvertebrate communities and fish diets in southern Illinois' Cache River. As an REU at the University of Georgia this summer she used isotopes to examine basal resource quality and food chain length along a stream discharge gradient.<br />
+			<b>Graduation:</b> May, 2014
+		</div>
+	</div>
+
 	<div class="member">
 		<img src="img/members/yuri.jpg" />
 		<div class="info">
@@ -60,18 +71,9 @@
 		</div>
 	</div>
 	<div class="member">
-		<img src="img/members/cory.jpg" />
-		<div class="info">
-			<div class="title"><span class="name">Cory Kertz</span> (Director of Sponsorship)</div>
-			<b>Major:</b> Plant and Soil Science, minor in Chemistry.<br />
-			<b>Research:</b> Cory’s research focus is in the development of more sustainable agricultural practices. His research is currently focused on the genetic makeup of Fusarium spp. in both Sudden Death Syndrome conducive and resistance soils.<br /> 
-			<b>Graduation:</b> May, 2015
-		</div>
-	</div>
-	<div class="member">
 		<img src="img/members/jessica.jpg" />
 		<div class="info">
-		<div class="title"><span class="name">Jessica Michels</span> (Director of Advertising)</div>
+		<div class="title"><span class="name">Jessica Michels</span> (Member)</div>
 			<b>Major:</b> Animal Science Degree specializing in Pre-Veterinary Medicine.<br />
 			<b>Minors:</b> Chemistry and Speech Communication.<br />
 			<b>Research:</b> Jessica is currently interested in feed formulation research for both companion animals and livestock.<br />
@@ -88,15 +90,6 @@
 		</div>
 	</div>
 	<div class="member">
-		<img src="img/members/sophia.jpg" />
-		<div class="info">
-			<div class="title"><span class="name">Sophia Bonjour</span> (Interested in Leadership)</div>
-			<b>Major:</b> Biological sciences, ecology track. Minors in Mathematics and Chemistry<br />
-			<b>Research:</b> Sophia has worked in freshwater ecology since Fall 2011. As an undergraduate assistant, she has focused on macroinvertebrate communities and fish diets in southern Illinois' Cache River. As an REU at the University of Georgia this summer she used isotopes to examine basal resource quality and food chain length along a stream discharge gradient.<br />
-			<b>Graduation:</b> May, 2014
-		</div>
-	</div>
-	<div class="member">
 		<img src="img/members/kyle.jpg" />
 		<div class="info">
 			<div class="title"><span class="name">Kyle Goetzelmann</span> (Member)</div>
@@ -107,7 +100,16 @@
 	</div>
 	<br />
 	<div class="section">Saint Louis University:</div>
-	
+	<div class="member">
+		<img src="img/members/marco.jpg" />
+		<div class="info">
+			<div class="title"><span class="name">Marco Rossi</span> (Director of SLU)</div>
+			<b>Major:</b> Clinical Laboratory Science<br />
+			<b>Research:</b> Marco’s current research looks into the properties of bacterial biofilms and the role of adherence to the infectious process of multidrug-resistant Staph. aureus (MRSA). Present interests for his future career entails graduate school for Microbiology.<br />
+			<b>Graduation:</b> May, 2015
+		</div>
+	</div>
+
 	<div class="member">
 		<img src="img/members/nick.jpg" />
 		<div class="info">
@@ -117,22 +119,13 @@
 			<b>Graduation:</b> May, 2014
 		</div>
 	</div>
-	<div class="member">
-		<img src="img/members/marco.jpg" />
-		<div class="info">
-			<div class="title"><span class="name">Marco Rossi</span> (Member)</div>
-			<b>Major:</b> Clinical Laboratory Science<br />
-			<b>Research:</b> Marco’s current research looks into the properties of bacterial biofilms and the role of adherence to the infectious process of multidrug-resistant Staph. aureus (MRSA). Present interests for his future career entails graduate school for Microbiology.<br />
-			<b>Graduation:</b> May, 2015
-		</div>
-	</div>
 	<br />
 	<div class="section">Washington University:</div>
 	
 	<div class="member">
 		<img src="img/members/aakash.png" />
 		<div class="info">
-			<div class="title"><span class="name">Aakash Gandhi</span> (Co-Director)</div>
+			<div class="title"><span class="name">Aakash Gandhi</span> (Director of Wash-U)</div>
 			<b>Major:</b> Biochemistry<br />
 			<b>Science Interest:</b> Target-and-mechanism-based drug design<br />
 			<b>Research:</b> Investigating the role of haloacid dehalogenases in Plasmodium falciparum drug resistance (Odom Lab, WUSM)<br />
