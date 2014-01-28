@@ -23,12 +23,9 @@
 <div id="leftcontent"><!-- slideshow -->
 <div id="slider">
 <ul class="slideshow">
-<li><img src="http://www.stlaurs.com/images/rotate_present_resized.png" alt="Hundreds of Chicago area undergraduates present their research at CAURS each year." height="225" width="650" /></li>
-<li><img src="http://www.stlaurs.com/images/rotate_msi_resized.png" alt="CAURS takes place each year at beautiful venues like Chicago's Museum of Science and Industry." height="225" width="650" /></li>
-<li><img src="http://www.stlaurs.com/images/rotate_abbott_resized.png" alt="CAURS is generously supported by our six sponsor institutions and numerous corporate donors." height="225" width="650" /></li>
+<li><img src="http://www.stlaurs.com/images/rotate_msi_resized.png" alt="STLAURS takes place each year at beautiful venues like the Saint Louis Zoo." height="225" width="650" /></li>
 <li><img src="http://www.stlaurs.com/images/rotate_awards.png" alt="The Symposium concludes with an awards ceremony to recognize distinguished student presentations." height="225" width="650" /></li>
 <li><img src="http://www.stlaurs.com/images/rotate_volunteers.png" alt="The Symposium runs smoothly thanks to our team of undergraduate Board members and volunteers." height="225" width="650" /></li>
-<li><img src="http://www.stlaurs.com/images/rotate_roundtable.png" alt="Industry and graduate school representatives host roundtable talks with students during lunch." height="225" width="650" /></li>
 </ul>
 </div>
 <div id="leftcontent_main">
