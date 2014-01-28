@@ -30,7 +30,7 @@
 <table id="universities">
 	<tr>
 		<td>
-			<img src="img/washington.png" style="width:2in" />
+			<img src="../images/washington.png" style="width:2in" />
 		</td>
 		<td>
 			<div class="title">Washington University in Saint Louis</div>
@@ -44,7 +44,7 @@
 	</tr>
 	<tr>
 		<td>
-			<img src="img/stlu.png" style="width:2in" />
+			<img src="../images/stlu.png" style="width:2in" />
 		</td>
 		<td>
 			<div class="title">Saint Louis University</div>
@@ -59,7 +59,7 @@
 	</tr>
 	<tr>
 		<td>
-			<img src="img/siuc.jpg" style="width:2in" />
+			<img src="../images/siuc.jpg" style="width:2in" />
 		</td>
 		<td>
 			<div class="title">Southern Illinois University Carbondale</div>
@@ -73,20 +73,7 @@
 	</tr>
 	<tr>
 		<td>
-			<img src="img/stl_pharm.png" style="width:2in" />
-		</td>
-		<td>
-			<div class="title">Saint Louis College of Pharmacy</div>
-			The research of Saint Louis College of Pharmacy is centered around the treatment 
-			of disease and the advancement of pharmaceutical education. Much of the research 
-			focuses on the development of drug therapies and patient-centered practices. Basic 
-			science research is also integrated into Saint Louis College of Pharmacy’s focus 
-			in order to better understand certain drugs’ characteristics and effects.
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="img/siue.png" style="width:2in" />
+			<img src="../images/siue.png" style="width:2in" />
 		</td>
 		<td>
 			<div class="title">Southern Illinois University Edwardsville</div>
@@ -98,20 +85,7 @@
 			Edwardsville as a center of excellence in pain education.
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<img src="img/missou-stl.png" style="width:2in" />
-		</td>
-		<td>
-			<div class="title">University of Missouri-Saint Louis</div>
-			The focus of research for the University of Missouri-Saint Louis entails the preparation 
-			that the research experience will provide for further career opportunities. Further, 
-			the role of laboratory and field experience in the gain of knowledge is emphasized in 
-			the expectations of prospective researchers, especially those in the basic sciences. 
-			More recent endeavors include increasing opportunities in the biological sciences.
-		</td>
-	</tr>
-</table>
+	</table>
 	
 <div id="rightcontent">
 <strong><!-- ####### END OF EDITABLE CONTENT ######## --></strong></div>
