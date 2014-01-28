@@ -52,6 +52,9 @@ a.secondheadingline:link, a.secondheadingline:hover, a.secondheadingline:visited
 	margin-left: 40px;	
 	float: left;
 }
+.school img {
+	width: 90px;
+}
 #links {
 	width: 904px;
 	height: 25px;
