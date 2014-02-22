@@ -4,7 +4,7 @@ html, body {height: 100%;}
 body {
 	padding: 0;
 	margin: 0;
-	background: #ececec url("http://www.caurs.com/New%20Website/images/background.png") repeat-y center top;
+	background: #ececec url("/images/background.png") repeat-y center top;
 	width: 100%;
 	display: table;
 }
@@ -46,6 +46,9 @@ a.secondheadingline:link, a.secondheadingline:hover, a.secondheadingline:visited
 /* Navigation bar */
 #leftbar {
 	position: relative;
+	background: #FFFFFF url("/images/links.png") 0 0;
+	width:116px;
+	height:25px;
 	float: left;
 }
 #rightbar {
@@ -58,7 +61,7 @@ a.secondheadingline:link, a.secondheadingline:hover, a.secondheadingline:visited
 #links {
 	width: 904px;
 	height: 25px;
-	background: #FFFFFF url("http://www.caurs.com/New%20Website/images/links.png") 0 0;
+	background: #FFFFFF url("/images/links.png") 0 0;
 	float: right;
 }
 /* #### NAVIGATION BAR ### */

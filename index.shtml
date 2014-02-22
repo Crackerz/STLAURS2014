@@ -8,9 +8,9 @@
 <!--#include virtual="/ssi/ssi-headinglinksandscripts.html" -->
 
 <!-- links specific to the individual page -->
-<link href="http://www.stlaurs.com/css/index.css" rel="stylesheet" type="text/css" /> 
-<script type="text/javascript" src="http://www.stlaurs.com/js/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
-<script type="text/javascript" src="http://www.stlaurs.com/js/slideshow.js"></script> <!-- script for slideshow -->
+<link href="/css/index.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="/js/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
+<script type="text/javascript" src="/js/slideshow.js"></script> <!-- script for slideshow -->
 <link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css'> <!-- web font for slideshow -->
 <link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
 
@@ -23,14 +23,14 @@
 <div id="leftcontent"><!-- slideshow -->
 <div id="slider">
 <ul class="slideshow">
-<li><img src="http://www.stlaurs.com/images/rotate_msi_resized.png" alt="STLAURS takes place each year at beautiful venues like the Saint Louis Zoo." height="225" width="650" /></li>
-<li><img src="http://www.stlaurs.com/images/rotate_awards.png" alt="The Symposium concludes with an awards ceremony to recognize distinguished student presentations." height="225" width="650" /></li>
-<li><img src="http://www.stlaurs.com/images/rotate_volunteers.png" alt="The Symposium runs smoothly thanks to our team of undergraduate Board members and volunteers." height="225" width="650" /></li>
+<li><img src="/images/rotate_msi_resized.png" alt="STLAURS takes place each year at beautiful venues like the Saint Louis Zoo." height="225" width="650" /></li>
+<li><img src="/images/rotate_awards.png" alt="The Symposium concludes with an awards ceremony to recognize distinguished student presentations." height="225" width="650" /></li>
+<li><img src="/images/rotate_volunteers.png" alt="The Symposium runs smoothly thanks to our team of undergraduate Board members and volunteers." height="225" width="650" /></li>
 </ul>
 </div>
 <div id="leftcontent_main">
-		<br><strong><p style="text-align:center;"><a href="http://www.stlaurs.com/registration/abstract.shtml">REGISTRATION NOW OPEN!</a></p></strong>
-		<br><strong><p style="text-align:center;"><a href="http://www.stlaurs.com/registration/abstract.shtml">APPLICATION DEADLINE: MARCH 21st 2014!</a></p></strong>
+		<br><strong><p style="text-align:center;"><a href="/registration/abstract.shtml">REGISTRATION NOW OPEN!</a></p></strong>
+		<br><strong><p style="text-align:center;"><a href="/registration/abstract.shtml">APPLICATION DEADLINE: MARCH 21st 2014!</a></p></strong>
 <br><p>Every undergraduate student involved in research has the potential to change the world around them. These students will be pioneers in both industry and academia. Many will strive to create entirely new fields and subfields of study. These students work with their community by collaborating with individuals in their fields to set up a venue and host a symposium where information and knowledge can be shared. The goal of STLAURS is to offer a unique opportunity where undergraduates can acquire these skills and understand how to build networks with the people around them.
 <br><br>
 <h2>STLAURS 2013 Award Winners</h2><br />
@@ -55,7 +55,7 @@
 <p class="title"><strong>DATE: April 19th, 2014</strong></p>
 <p class="title"><a href="https://maps.google.com/maps?daddr=1255+Lincoln+Dr,+Carbondale,+IL+62903&hl=en&sll=37.720807,-89.213008&sspn=0.235179,0.527687&geocode=FY1uPwIdsKSu-ikrFZvzLxJ3iDHumYsTBFJ_Iw&t=h&mra=ls&z=12" style="color: #C00;"><strong>LOCATION: SIUC Student Center</strong></a></p>
 <p id="opentoall">Open to all undergraduates</p>
-<p><a href="http://www.stlaurs.com/contact.shtml">Contact Us</a> if you have any questions.<br /><br /><br />Registration is now open.<br /></p></div>
+<p><a href="/contact.shtml">Contact Us</a> if you have any questions.<br /><br /><br />Registration is now open.<br /></p></div>
 </div>
 <strong><!-- ####### END OF EDITABLE CONTENT ######## --></strong></div>
 <strong><strong><strong> <!-- bodycontent --></strong></strong></strong>
