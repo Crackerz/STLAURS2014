@@ -15,6 +15,10 @@
 <link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
 
 <style>
+.pictures {
+	margin: 5px;
+	text-align: center;
+}
 </style>
 </head>
 
@@ -23,11 +27,11 @@
 <div id="bodywrapper"><!--#include virtual="/ssi/ssi-schools.html" -->
 <div id="bodycontent"><!-- ############ EDITABLE CONTENT ############## -->
 
-		<h2>Dr. James R. Lovvorn and Dr. Marjorie Brooks</h2><br /><br />
+		<h2>Dr. James R. Lovvorn and Dr. Marjorie Brooks</h2>
 	
-	<div style="text-align:center;">
-		<img src="http://www.stlaurs.com/images/drbrooks.jpg" style="margin:5px;">
-		<img src="http://www.stlaurs.com/images/drlovvorn.jpg"style="margin:5px;margin-right: 10px;">
+	<div class="pictures">
+		<img src="http://www.stlaurs.com/images/drbrooks.jpg">
+		<img src="http://www.stlaurs.com/images/drlovvorn.jpg">
 	</div><br>
 	The keynote speakers for the 2014 Symposium are SIUC's Dr. James R. Lovvorn and Dr. Marj Brooks. As faculty members in the Department of Zoology within the College of Science, both scientists are actively involved in interdisciplinary research in the Arctic.<br><br>
 
