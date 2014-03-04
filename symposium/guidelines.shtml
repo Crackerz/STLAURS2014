@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>St Louis Area Undergraduate Research Symposium</title>
+
+<!-- common links to every page -->
+<!--#include virtual="/ssi/ssi-headinglinksandscripts.html" -->
+
+<!-- links specific to the individual page -->
+<link href="http://www.stlaurs.com/css/index.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="http://www.stlaurs.com/js/jquery-1.6.4.js"></script> <!-- necessary for slideshow javascript to work -->
+<script type="text/javascript" src="http://www.stlaurs.com/js/slideshow.js"></script> <!-- script for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Nobile' rel='stylesheet' type='text/css'> <!-- web font for slideshow -->
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <!-- web font for rest of page -->
+
+<style>
+.pictures {
+	margin: 5px;
+	text-align: center;
+}
+</style>
+</head>
+
+<body>
+<div id="wrapper"><!--#include virtual="/ssi/ssi-heading.html" -->
+<div id="bodywrapper"><!--#include virtual="/ssi/ssi-schools.html" -->
+<div id="bodycontent"><!-- ############ EDITABLE CONTENT ############## -->
+
+	<h2>Symposium Guidelines</h2>
+	<h3>Abstracts</h3>
+		An abstract is an outline/brief summary of your research project. It should be a well developed summary that is concise and comprehensive.
+		<ul>
+			<li>It should have an introduction, body, and conclusion</li>
+			<li>It should explain the importance of the project, its purpose, the methodology/procedure, what was learned, and conclusions.</li>
+			<li>It must be understandable to those outside of your field.</li>
+			<li>Do not include any figures, graphs, or tables.</li>
+		</ul>
+	<h3>Posters</h3>
+		If you are using a show wall to present your research, the maximum poster size is 42"x60". The recommended size for a posters on a show wall is 42"x48".
+
+		If you are presenting on an easel, the maximum poster size is 42"x48". Easels offer no support for your poster, therefore your poster must be printed on a firm material that can keep itself upright.
+		<br><br>
+		Although supplies such as pushpins will be available for mounting posters, these will be limited. We strongly encourage you to bring your own mounting material. Our show walls are made of a fabric, therefore safety pins work well.	
+		<br><br>
+		During your presentation, stand to the side of your poster so you do not block it. Your presentation should be a short summary speech about 3-5 minutes long. You should be prepared to answer questions about your research. It is important that you dress and interact professionally.
+	<h3>Oral Presentations</h3>
+		Oral presentations should range from 25 to 30 minutes, and have accompanying visual aids. Each oral presentation will be provided a projector for displaying media, you are required to bring a laptop. It is a good idea to have a backup of your presentation on a flash drive in the event you encounter technical problems connecting to the projector.
+<div id="rightcontent">
+<strong><!-- ####### END OF EDITABLE CONTENT ######## --></strong></div>
+<strong><strong><strong> <!-- bodycontent --></strong></strong></strong>
+<div id="fill"></div>
+<strong><strong><!-- makes sure the body background fills up the entire height --> <!--#include virtual="/ssi/ssi-footer.html" --></strong></strong></div>
+<strong><strong> </strong></strong></div>
+<p></p>
+<p><!-- wrapper --></p>
+<p></p>
+<p>&nbsp;</p>
+</body>
+</html>
