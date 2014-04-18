@@ -27,22 +27,22 @@
 	
 	<table>
 		<tr>
-			<td>09:00-10:00</td><td>Registration</td>
+				<td>09:00-10:00</td><td>Registration<br>Poster Setup<br>ContinentalBreakfast</td><td>Corker Lounge<br>Ballrooms A and B<br>Corker Lounge</td>
 		</tr>
 		<tr>
-			<td>10:00-11:30</td><td>Presentations</td>
+				<td>10:00-11:30</td><td>Poster Presentations<br>Oral Presentations</td><td>Ballrooms A and B<br>River Rooms</tr>
 		</tr>
 		<tr>
-			<td>11:45-12:15</td><td>Chancellor's Speech</td>
+				<td>11:45-12:15</td><td>Provost's Speech</td><tr>Ballrooms C and D</tr>
 		</tr>
 		<tr>
-			<td>12:15-01:00</td><td>Lunch</td>
+				<td>12:15-01:00</td><td>Lunch</td><tr>Ballrooms C and D</tr>
 		</tr>
 		<tr>	
-			<td>01:00-01:45</td><td>Keynote Speech</td>
+				<td>01:00-01:45</td><td>Keynote Speech</td><tr>Ballrooms C and D</tr>
 		</tr>
 		<tr>
-			<td>02:00-03:00</td><td>Award Ceremony</td>
+				<td>02:00-03:00</td><td>Award Ceremony</td><tr>Ballrooms C and D</tr>
 		</tr>
 	</table>
 
